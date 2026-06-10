@@ -195,7 +195,7 @@ h1, h2, h3, h4 {
   max-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url('desktop-hero-bg.png');
+  background-image: url('desktop.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -275,7 +275,7 @@ h1, h2, h3, h4 {
     display: block;
     width: 100%;
     height: 125vw; /* Altura da imagem reduzida */
-    background-image: url('mobile-hero-bg.png');
+    background-image: url('mobile.png');
     background-position: center bottom;
     background-size: cover;
     background-repeat: no-repeat;
